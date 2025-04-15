@@ -7,9 +7,9 @@ import RyhmeGame from './components/RyhmeGame'
 function App() {
   return (
     <div>
-      <RyhmeGame/>
+      {/* <RyhmeGame/> */}
       {/* <Chemistry2048/> */}
-      {/* <WhoEatsWho /> */}
+      <WhoEatsWho />
       {/* <ChemistryGame/> */}
     </div>
   )
